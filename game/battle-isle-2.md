@@ -1,0 +1,29 @@
+---
+layout: game
+title: Battle Isle 2
+---
+
+Wszystkie kody na jednego gracza:
+
+ 1. AMPORGE
+ 2. JOGRWAI
+ 3. GEGIDOS
+ 4. WABODAE
+ 5. BUFASWE
+ 6. GEHAUWA
+ 7. OLARIBU
+ 8. FITORGE
+ 9. DAFATWA
+10. WABIKDO
+11. GEEUSAT
+12. KAIMAWA
+13. SIETIBU
+14. GEDEROM
+15. ULUARGE
+16. ABUNDWA
+17. LANADGE
+18. WAFEFAL
+19. BUSALUG
+20. GEKEFZU
+
+Tajne poziomy: DIONE, NAIAD.

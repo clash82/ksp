@@ -1,0 +1,20 @@
+---
+layout: game
+title: Puzznic
+---
+
+Kody:
+
+48 - ICHI NICH
+49 - IGAN BARD
+50 - PASS WORD
+51 - MINA SAMA
+52 - ND. D KAGE
+53 - DE. N ANID
+54 - HASH IAGA
+55 - RIMA SITA
+56 - THAN KYDU
+57 - MAID OOKA
+58 - IAGE ITAD
+59 - AKIM ASHI
+60 - TEAR IGAT

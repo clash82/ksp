@@ -1,0 +1,10 @@
+---
+layout: game
+title: Eye Of Horus
+---
+
+Kody:
+
+RADAGAST, YARMAK, ORCSLAYER, SKYFIRE, MIRGAL, 
+GHANIMA, GLIEF,
+MOURNBLADE, JADAWIN, GUMBA, CHACMAL.

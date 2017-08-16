@@ -1,0 +1,10 @@
+---
+layout: game
+title: Troddlers
+---
+
+Kody:
+
+PREMIERE, SPHINX, CROSSED, BZZZZZ, DONTMIX, 
+NOPROBLEMS,
+SIXROOMS, BOULERO, KEYX, AUTOFIRE, TRAXMIX, FINALE.

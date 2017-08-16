@@ -1,0 +1,43 @@
+---
+layout: game
+title: The Lost Vikings
+---
+
+Kody do wszystkich etapów:
+
+ 1. STRT
+ 2. GR8T
+ 3. LTPT
+ 4. GRND
+ 5. LLMO
+ 6. FLOT
+ 7. TRSS
+ 8. CVRN
+ 9. BBLS
+10. VLCN
+11. QCKS
+12. PHRO
+13. C1RO
+14. SPKS
+15. JMNN
+16. TTRS
+17. JLLY
+18. PLNG
+19. BTRY
+20. JNKR
+21. CBLT
+22. HOPP
+23. SMRT
+24. V8TR
+25. NFL8
+26. WKYY
+27. CMBO
+28. 8BLL
+29. TRDR
+30. FNTM
+31. WRLR
+32. TRPP
+33. TFFF
+34. FRGT
+35. 4RNH
+36. MSTR

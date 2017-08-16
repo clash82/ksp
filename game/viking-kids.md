@@ -1,0 +1,44 @@
+---
+layout: game
+title: Viking Kids
+---
+
+Kody:
+
+ 1. STRT
+ 2. GR8T
+ 3. TLPT
+ 4. GRND
+ 5. LLM0
+ 6. FL0T
+ 7. TRSS
+ 8. PRHS
+ 9. CVRN
+10. BBLS
+11. VLCN
+12. QCKS
+13. PHR0
+14. C1R0
+15. SPKS
+16. JMNN
+17. TTRS
+18. JLLY
+19. PLNG
+20. BTRY
+21. JNKR
+22. CBLT
+23. H0PP
+24. SMRT
+25. V8TR
+26. NFL8
+27. WKYY
+28. CMB0
+29. 8BLL
+30. TRDR
+31. FNTM
+32. WRLR
+33. TRPD
+34. TFFF
+35. FRGT
+36. 4RN4
+37. MSTR

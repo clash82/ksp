@@ -1,0 +1,16 @@
+---
+layout: game
+title: Aminos
+---
+
+Kody:
+
+  2. FRDSMSMMNGR
+  3. PLFRMNLQSN
+  4. LSMBRGNSLQ
+  5. LKMCTKSCDF
+  6. STBNLMRCHL
+  7. RCHLMCLTHS 
+  8. THBSTSTFTT
+  9. THTHJJRSNN
+10. MLFNDBTFFL

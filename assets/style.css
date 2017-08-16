@@ -1,0 +1,50 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+main {
+    margin: 10px;
+}
+
+main pre {
+    padding: 20px;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+ }
+
+main pre p {
+    margin: 0;
+    display: inline-block;
+    font-family: 'Courier';
+    color: #000;
+    font-weight: bold;
+}
+
+ol {
+    padding-left: 40px;
+}
+
+footer {
+    margin-top: 25px;
+}
+
+.img-frame {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.img-description {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background: #e5e5e5;
+    text-align: center;
+    display: inline-block;
+    font-size: 13px;
+}
+
+.img-description img {
+    margin-bottom: 10px;
+}

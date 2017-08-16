@@ -1,0 +1,16 @@
+---
+layout: game
+title: Lamers
+---
+
+Kody:
+
+1. IRAQBAGDA
+2. AQUAFRESH
+3. LUFTHANSA
+4. OSLOTAXI
+5. WAR TIME
+6. SUPER VGA
+7. LEGO
+8. MAZE
+9. SCREWED

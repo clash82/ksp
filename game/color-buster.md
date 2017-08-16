@@ -1,0 +1,15 @@
+---
+layout: game
+title: Color Buster
+---
+
+Kody:
+
+10. HUGYOSUBS
+15. ELSZALLAS
+20. GY=BEST
+25. DEKASGECI
+30. SUPERTRAMP
+35. GOTO35
+40. LOVEKATI
+45. CSOKAKATI

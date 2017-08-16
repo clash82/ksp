@@ -1,0 +1,27 @@
+<html lang="pl-PL">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="index, follow, archive">
+        <meta name="author" content="Rafał Toborek">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta http-equiv="content-style-type" content="text/css">
+        <link href="/ksp/assets/style.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="shortcut icon" href="/ksp/favicon.ico">
+        <title>{% if page.title != null %}{{ page.title }} - {% endif %}Kody Starych Pryków</title>
+    </head>
+    <body>
+        <main class="container theme-showcase">
+            {{ content }}
+
+            <footer>
+                <a href="http://clash82.toborek.info/ksp/">Kody Starych Pryków</a> &copy; 2017
+                <br>
+                Pomóż w aktualizacji, utwórz <a href="https://github.com/clash82/ksp" target="_blank">Pull Request</a>
+            </footer>
+        </main>     
+    </body>
+</html>

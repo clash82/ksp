@@ -1,0 +1,3073 @@
+list:
+    - file: "101st-airborne"
+      title: "101St Airborne"
+
+    - file: "1869"
+      title: "1869"
+
+    - file: "3d-ultra-rc-racers"
+      title: "3D Ultra RC Racers"
+
+    - file: "4-get-it"
+      title: "4 Get It"
+
+    - file: "4d-sports-boxing"
+      title: "4D Sports Boxing"
+
+    - file: "688-attack-sub"
+      title: "688 Attack Sub"
+
+    - file: "7-up"
+      title: "7 - Up"
+
+    - file: "7th-guest"
+      title: "7th Guest"
+
+    - file: "a-10-cuba"
+      title: "A - 10 Cuba!"
+
+    - file: "a-10-tank-killer"
+      title: "A - 10 Tank Killer"
+
+    - file: "a-train"
+      title: "A - Train"
+
+    - file: "a-p-b"
+      title: "A. P. B."
+
+    - file: "aargh"
+      title: "Aargh"
+
+    - file: "abbys-incident-at-europa"
+      title: "Abbys - Incident At Europa"
+
+    - file: "abrams"
+      title: "Abrams"
+
+    - file: "absolute-zero"
+      title: "Absolute Zero"
+
+    - file: "abuse"
+      title: "Abuse"
+
+    - file: "aces-of-the-deep"
+      title: "Aces Of The Deep"
+
+    - file: "aces-of-the-pacific"
+      title: "Aces Of The Pacific"
+
+    - file: "achtung-spitfire"
+      title: "Achtung Spitfire!"
+
+    - file: "actua-soccer-3"
+      title: "Actua Soccer 3"
+
+    - file: "actua-soccer"
+      title: "Actua Soccer"
+
+    - file: "actua-tennis"
+      title: "Actua Tennis"
+
+    - file: "aero-dancing"
+      title: "Aero Dancing"
+
+    - file: "african-safari"
+      title: "African Safari"
+
+    - file: "after-midnight"
+      title: "After Midnight"
+
+    - file: "after-the-war"
+      title: "After The War"
+
+    - file: "afterburner"
+      title: "Afterburner"
+
+    - file: "afterlife"
+      title: "Afterlife"
+
+    - file: "age-of-empires-rise-of-rome"
+      title: "Age Of Empires - Rise Of Rome"
+
+    - file: "age-of-empires-2"
+      title: "Age Of Empires 2"
+
+    - file: "airline-tycoon"
+      title: "Airline Tycoon"
+
+    - file: "age-of-empires"
+      title: "Age Of Empires"
+
+    - file: "ahx-1"
+      title: "AHX - 1"
+
+    - file: "airborne-ranger"
+      title: "Airborne Ranger"
+
+    - file: "alcatraz"
+      title: "Alcatraz"
+
+    - file: "alied-commander-pro"
+      title: "Alied Commander Pro"
+
+    - file: "alien-breed-tower-assault"
+      title: "Alien Breed - Tower Assault"
+
+    - file: "alien-breed"
+      title: "Alien Breed"
+
+    - file: "alien-carnage"
+      title: "Alien Carnage"
+
+    - file: "alien-logic"
+      title: "Alien Logic"
+
+    - file: "alien-trilogy"
+      title: "Alien Trilogy"
+
+    - file: "aliens-vs-predator"
+      title: "Aliens vs. Predator"
+
+    - file: "alley-cat"
+      title: "Alley Cat"
+
+    - file: "allods-sealed-lands"
+      title: "Allods - Sealed Lands"
+
+    - file: "alone-in-the-dark-1"
+      title: "Alone In The Dark 1"
+
+    - file: "alone-in-the-dark-2"
+      title: "Alone In The Dark 2"
+
+    - file: "alpha-centauri"
+      title: "Alpha Centauri"
+
+    - file: "amazon-trail"
+      title: "Amazon Trail"
+
+    - file: "ambermoon"
+      title: "Ambermoon"
+
+    - file: "amberstar"
+      title: "Amberstar"
+
+    - file: "american-deer-hunting-2000"
+      title: "American Deer Hunting 2000"
+
+    - file: "aminos"
+      title: "Aminos"
+
+    - file: "amok"
+      title: "Amok"
+
+    - file: "ancient-art-of-war"
+      title: "Ancient Art Of War"
+
+    - file: "ancient-conquest"
+      title: "Ancient Conquest"
+
+    - file: "ancient-evil"
+      title: "Ancient Evil"
+
+    - file: "anno-1602"
+      title: "Anno 1602"
+
+    - file: "another-world"
+      title: "Another World"
+
+    - file: "aquanoid"
+      title: "Aquanoid"
+
+    - file: "arabian-nights"
+      title: "Arabian Nights"
+
+    - file: "arcade-america"
+      title: "Arcade America"
+
+    - file: "archimedean-dynasty"
+      title: "Archimedean Dynasty"
+
+    - file: "archon-ultra"
+      title: "Archon Ultra"
+
+    - file: "arctic-adventures"
+      title: "Arctic Adventures"
+
+    - file: "arctic-moves"
+      title: "Arctic Moves"
+
+    - file: "ares-rising"
+      title: "Ares Rising"
+
+    - file: "arkanoid-2"
+      title: "Arkanoid 2"
+
+    - file: "arkanoid"
+      title: "Arkanoid"
+
+    - file: "armored-fist-2"
+      title: "Armored Fist 2"
+
+    - file: "armored-fist"
+      title: "Armored Fist"
+
+    - file: "army-men-toys-in-space"
+      title: "Army Men - Toys In Space"
+
+    - file: "army-men-2"
+      title: "Army Men 2"
+
+    - file: "army-men"
+      title: "Army Men"
+
+    - file: "arsenal"
+      title: "Arsenal"
+
+    - file: "ascendancy"
+      title: "Ascendancy"
+
+    - file: "astrorock-2000"
+      title: "AstroRock 2000"
+
+    - file: "atomino"
+      title: "Atomino"
+
+    - file: "axelerator"
+      title: "Axelerator"
+
+    - file: "b-hunter"
+      title: "B - Hunter"
+
+    - file: "baby-joe"
+      title: "Baby Joe"
+
+    - file: "back-to-the-future-2"
+      title: "Back To The Future 2"
+
+    - file: "baldur's-gate"
+      title: "Baldur's Gate"
+
+    - file: "balls-of-steel"
+      title: "Balls Of Steel"
+
+    - file: "ballerna"
+      title: "Ballerna"
+
+    - file: "barbarian"
+      title: "Barbarian"
+
+    - file: "batman"
+      title: "Batman"
+
+    - file: "batman-forever"
+      title: "Batman Forever"
+
+    - file: "battle-arena-toshinden-2"
+      title: "Battle Arena Toshinden 2"
+
+    - file: "ballgame-2"
+      title: "Ballgame 2"
+
+    - file: "bap"
+      title: "Bap"
+
+    - file: "bart-vs-the-space-mutants"
+      title: "Bart vs. The Space Mutants"
+
+    - file: "battle-arena-toshinden"
+      title: "Battle Arena Toshinden"
+
+    - file: "battle-beast"
+      title: "Battle Beast"
+
+    - file: "battle-isle-2"
+      title: "Battle Isle 2"
+
+    - file: "battle-isle-3"
+      title: "Battle Isle 3"
+
+    - file: "battle-isle"
+      title: "Battle Isle"
+
+    - file: "battle-of-britain"
+      title: "Battle Of Britain"
+
+    - file: "battle-zone-the-red-odyssey"
+      title: "Battle Zone - The Red Odyssey"
+
+    - file: "battle-zone"
+      title: "Battle Zone"
+
+    - file: "battledrome"
+      title: "Battledrome"
+
+    - file: "beach-volleyball"
+      title: "Beach Volleyball"
+
+    - file: "bearstormin"
+      title: "Bearstormin'"
+
+    - file: "beasts-bumpkins"
+      title: "Beasts & Bumpkins"
+
+    - file: "beatle-juice"
+      title: "Beatle Juice"
+
+    - file: "beavers"
+      title: "Beavers"
+
+    - file: "beavis-butthead-do-u"
+      title: "Beavis & Butthead Do - U"
+
+    - file: "bedlam"
+      title: "Bedlam"
+
+    - file: "beer"
+      title: "Beer"
+
+    - file: "beethoven-2nd"
+      title: "Beethoven 2nd"
+
+    - file: "bernie-boulder"
+      title: "Bernie Boulder"
+
+    - file: "betrayal-at-krondor"
+      title: "Betrayal At Krondor"
+
+    - file: "betrayal-in-antara"
+      title: "Betrayal In Antara"
+
+    - file: "big-game-hunter-2"
+      title: "Big Game Hunter 2"
+
+    - file: "biomenace"
+      title: "Biomenace"
+
+    - file: "biosys"
+      title: "Biosys"
+
+    - file: "bird-hunter"
+      title: "Bird Hunter"
+
+    - file: "black-thorne"
+      title: "Black Thorne"
+
+    - file: "birtright"
+      title: "Birtright"
+
+    - file: "blackstone-chronicles"
+      title: "Blackstone Chronicles"
+
+    - file: "blade-runner"
+      title: "Blade Runner"
+
+    - file: "blake-stone"
+      title: "Blake Stone"
+
+    - file: "blam-machinehead"
+      title: "Blam! Machinehead"
+
+    - file: "blood-fire"
+      title: "Blood & Fire"
+
+    - file: "blood-magic"
+      title: "Blood & Magic"
+
+    - file: "blood-2"
+      title: "Blood 2"
+
+    - file: "blood-destiny"
+      title: "Blood Destiny"
+
+    - file: "blood"
+      title: "Blood"
+
+    - file: "blue-lighting"
+      title: "Blue Lighting"
+
+    - file: "blues-brothers"
+      title: "Blues Brothers"
+
+    - file: "bomb-x"
+      title: "Bomb - X"
+
+    - file: "bombuzal"
+      title: "Bombuzal"
+
+    - file: "boppin"
+      title: "Boppin"
+
+    - file: "brain-storm-pro"
+      title: "Brain Storm Pro"
+
+    - file: "break-free"
+      title: "Break Free"
+
+    - file: "braveheart"
+      title: "Braveheart"
+
+    - file: "break-neck"
+      title: "Break Neck"
+
+    - file: "brian-lara-cricket"
+      title: "Brian Lara Cricket"
+
+    - file: "bss-jane-seymour"
+      title: "Bss Jane Seymour"
+
+    - file: "bubble-hero-2"
+      title: "Bubble Hero 2"
+
+    - file: "budokan"
+      title: "Budokan"
+
+    - file: "bumpy"
+      title: "Bumpy"
+
+    - file: "cc-covert-operations"
+      title: "C&C - Covert Operations"
+
+    - file: "cadillac-dinosaurs"
+      title: "Cadillac & Dinosaurs"
+
+    - file: "caesar-3"
+      title: "Caesar 3"
+
+    - file: "caesar"
+      title: "Caesar"
+
+    - file: "cannon-fodder"
+      title: "Cannon Fodder"
+
+    - file: "capitalism-plus"
+      title: "Capitalism Plus"
+
+    - file: "capone"
+      title: "Capone"
+
+    - file: "capture-the-flag"
+      title: "Capture The Flag"
+
+    - file: "carmageddon-2"
+      title: "Carmageddon 2"
+
+    - file: "carmageddon"
+      title: "Carmageddon"
+
+    - file: "carmen-sandiego"
+      title: "Carmen Sandiego"
+
+    - file: "carnage"
+      title: "Carnage"
+
+    - file: "carnivores-2"
+      title: "Carnivores 2"
+
+    - file: "carnivores"
+      title: "Carnivores"
+
+    - file: "carrier-command"
+      title: "Carrier Command"
+
+    - file: "castle-master"
+      title: "Castle Master"
+
+    - file: "castle-of-dr-brain"
+      title: "Castle Of Dr. Brain"
+
+    - file: "castle-of-the-winds"
+      title: "Castle Of The Winds"
+
+    - file: "castles-2"
+      title: "Castles 2"
+
+    - file: "catacomb-abyss"
+      title: "Catacomb Abyss"
+
+    - file: "cativic"
+      title: "Cativic"
+
+    - file: "cave-wars"
+      title: "Cave Wars"
+
+    - file: "cd-man"
+      title: "CD - Man"
+
+    - file: "centipade-3d"
+      title: "Centipade 3D"
+
+    - file: "champions-of-krynn"
+      title: "Champions Of Krynn"
+
+    - file: "chaos-island"
+      title: "Chaos Island"
+
+    - file: "chariots-of-wrath"
+      title: "Chariots Of Wrath"
+
+    - file: "charisma"
+      title: "Charisma"
+
+    - file: "chase-hq"
+      title: "Chase HQ"
+
+    - file: "chasm"
+      title: "Chasm"
+
+    - file: "chicago-89"
+      title: "Chicago '89"
+
+    - file: "chips-challenge"
+      title: "Chips Challenge"
+
+    - file: "chronicles-of-sodoma"
+      title: "Chronicles Of Sodoma"
+
+    - file: "chubby-gristle"
+      title: "Chubby Gristle"
+
+    - file: "cisco-heat"
+      title: "Cisco Heat"
+
+    - file: "civilization-2"
+      title: "Civilization 2"
+
+    - file: "civnet"
+      title: "Civnet"
+
+    - file: "cj-elephant-antics"
+      title: "Cj Elephant Antics"
+
+    - file: "clash"
+      title: "Clash"
+
+    - file: "clans"
+      title: "Clans"
+
+    - file: "clownomania"
+      title: "Clown'O'Mania"
+
+    - file: "code-name-iceman"
+      title: "Code Name Iceman"
+
+    - file: "colgate"
+      title: "Colgate"
+
+    - file: "colonization"
+      title: "Colonization"
+
+    - file: "colin-mcrae-rally"
+      title: "Colin McRae Rally"
+
+    - file: "color-buster"
+      title: "Color Buster"
+
+    - file: "colorado"
+      title: "Colorado"
+
+    - file: "colors"
+      title: "Colors"
+
+    - file: "combat-air-patrol"
+      title: "Combat Air Patrol"
+
+    - file: "commanche-3"
+      title: "Commanche 3"
+
+    - file: "commanche-gold"
+      title: "Commanche Gold"
+
+    - file: "commanche"
+      title: "Commanche"
+
+    - file: "commander-keen-4-6"
+      title: "Commander Keen 4-6"
+
+    - file: "commander-keen"
+      title: "Commander Keen"
+
+    - file: "commandos-behind-enemy-lines"
+      title: "Commandos - Behind Enemy Lines"
+
+    - file: "commandos-the-call-of-duty"
+      title: "Commandos - The Call Of Duty"
+
+    - file: "commandos"
+      title: "Commandos"
+
+    - file: "conflict-freespace"
+      title: "Conflict - Freespace"
+
+    - file: "conquest-of-the-longbow"
+      title: "Conquest Of The Longbow"
+
+    - file: "constructor"
+      title: "Constructor"
+
+    - file: "cool-croc-twins"
+      title: "Cool Croc Twins"
+
+    - file: "cool-spot"
+      title: "Cool Spot"
+
+    - file: "corridor-7"
+      title: "Corridor 7"
+
+    - file: "cosmos-cosmic-adventure"
+      title: "Cosmo's Cosmic Adventure"
+
+    - file: "countdown"
+      title: "Countdown"
+
+    - file: "crackdown"
+      title: "Crackdown"
+
+    - file: "crash-course"
+      title: "Crash Course"
+
+    - file: "crazy-cars"
+      title: "Crazy Cars"
+
+    - file: "cricket-paradise"
+      title: "Cricket Paradise"
+
+    - file: "crime-city"
+      title: "Crime City"
+
+    - file: "croc-legends-of-gobbos"
+      title: "Croc - Legends Of Gobbos"
+
+    - file: "crusade"
+      title: "Crusade"
+
+    - file: "crusader-no-regret"
+      title: "Crusader - No Regret"
+
+    - file: "crusader-no-remorse"
+      title: "Crusader - No Remorse"
+
+    - file: "crystal-caves"
+      title: "Crystal Caves"
+
+    - file: "curse-of-ra"
+      title: "Curse Of Ra"
+
+    - file: "cyber-gladiators"
+      title: "Cyber Gladiators"
+
+    - file: "cyber-punks"
+      title: "Cyber Punks"
+
+    - file: "cybermercs"
+      title: "Cybermercs"
+
+    - file: "cybernoid"
+      title: "Cybernoid"
+
+    - file: "cyberstorm-2"
+      title: "Cyberstorm 2"
+
+    - file: "cyclemania"
+      title: "Cyclemania"
+
+    - file: "cyclones"
+      title: "Cyclones"
+
+    - file: "cyril-cyberpunk"
+      title: "Cyril Cyberpunk"
+
+    - file: "d-generation"
+      title: "D - Generation"
+
+    - file: "d-o-g"
+      title: "D. O. G."
+
+    - file: "daedalus-encounter"
+      title: "Daedalus Encounter"
+
+    - file: "daggerfall"
+      title: "Daggerfall"
+
+    - file: "dalek-attack"
+      title: "Dalek Attack"
+
+    - file: "daley-thompson's"
+      title: "Daley Thompson's"
+
+    - file: "dangerous-dave"
+      title: "Dangerous Dave"
+
+    - file: "dark-ages"
+      title: "Dark Ages"
+
+    - file: "dark-angel"
+      title: "Dark Angel"
+
+    - file: "dark-earth"
+      title: "Dark Earth"
+
+    - file: "dark-forces"
+      title: "Dark Forces"
+
+    - file: "dark-reign"
+      title: "Dark Reign"
+
+    - file: "dark-rift"
+      title: "Dark Rift"
+
+    - file: "dark-side-of-the-moon"
+      title: "Dark Side Of The Moon"
+
+    - file: "dark-sun-2"
+      title: "Dark Sun 2"
+
+    - file: "darklight-conflict"
+      title: "Darklight Conflict"
+
+    - file: "darkness-93"
+      title: "Darkness '93"
+
+    - file: "das-boot"
+      title: "Das Boot"
+
+    - file: "data-storm"
+      title: "Data Storm"
+
+    - file: "day-of-the-tentacle"
+      title: "Day Of The Tentacle"
+
+    - file: "deadlock-2"
+      title: "Deadlock 2"
+
+    - file: "death-rally"
+      title: "Death Rally"
+
+    - file: "death-track"
+      title: "Death Track"
+
+    - file: "deathbringer"
+      title: "Deathbringer"
+
+    - file: "deathkarz"
+      title: "Deathkarz"
+
+    - file: "deathtrap-dungeon"
+      title: "Deathtrap Dungeon"
+
+    - file: "deep-core"
+      title: "Deep Core"
+
+    - file: "deep-sea-trophy-fishing"
+      title: "Deep Sea Trophy Fishing"
+
+    - file: "deer-hunter-2"
+      title: "Deer Hunter 2"
+
+    - file: "deer-hunter-3"
+      title: "Deer Hunter 3"
+
+    - file: "deer-hunter"
+      title: "Deer Hunter"
+
+    - file: "defector"
+      title: "Defector"
+
+    - file: "defender-of-the-crown"
+      title: "Defender Of The Crown"
+
+    - file: "defiance"
+      title: "Defiance"
+
+    - file: "deflektor"
+      title: "Deflektor"
+
+    - file: "delta-force-2"
+      title: "Delta Force 2"
+
+    - file: "demolition-racer"
+      title: "Demolition Racer"
+
+    - file: "delta-force"
+      title: "Delta Force"
+
+    - file: "depth-dwellers"
+      title: "Depth Dwellers"
+
+    - file: "departament"
+      title: "Departament"
+
+    - file: "descent-freespace"
+      title: "Descent - Freespace"
+
+    - file: "descent-2"
+      title: "Descent 2"
+
+    - file: "descent-3"
+      title: "Descent 3"
+
+    - file: "descent"
+      title: "Descent"
+
+    - file: "desert-strike"
+      title: "Desert Strike"
+
+    - file: "destruction-derby-2"
+      title: "Destruction Derby 2"
+
+    - file: "destruction-derby"
+      title: "Destruction Derby"
+
+    - file: "deuteros"
+      title: "Deuteros"
+
+    - file: "devil-land"
+      title: "Devil Land"
+
+    - file: "die-by-the-sword"
+      title: "Die By The Sword"
+
+    - file: "die-hard-trilogy"
+      title: "Die Hard Trilogy"
+
+    - file: "digger"
+      title: "Digger"
+
+    - file: "diggers"
+      title: "Diggers"
+
+    - file: "dino-dudes"
+      title: "Dino Dudes"
+
+    - file: "dino-park-tycoon"
+      title: "Dino Park Tycoon"
+
+    - file: "dinos-quest"
+      title: "Dino's Quest"
+
+    - file: "disciples-sacred-lands"
+      title: "Disciples - Sacred Lands"
+
+    - file: "doctor-who"
+      title: "Doctor Who"
+
+    - file: "dogs-of-war"
+      title: "Dogs Of War"
+
+    - file: "dojo-dan"
+      title: "Dojo Dan"
+
+    - file: "doman"
+      title: "Doman"
+
+    - file: "doodlebug"
+      title: "Doodlebug"
+
+    - file: "doofus"
+      title: "Doofus"
+
+    - file: "doom-2"
+      title: "Doom 2"
+
+    - file: "doom"
+      title: "Doom"
+
+    - file: "double-dragon-3"
+      title: "Double Dragon 3"
+
+    - file: "double-dragon"
+      title: "Double Dragon"
+
+    - file: "dragon-spirit"
+      title: "Dragon Spirit"
+
+    - file: "dragons-and-virgins"
+      title: "Dragons And Virgins"
+
+    - file: "dragons-lair-2"
+      title: "Dragon's Lair 2"
+
+    - file: "dragons-lair-3"
+      title: "Dragon's Lair 3"
+
+    - file: "dragons-lair"
+      title: "Dragon's Lair"
+
+    - file: "dragonsphere"
+      title: "Dragonsphere"
+
+    - file: "drakan-order-of-the-flame"
+      title: "Drakan - Order Of The Flame"
+
+    - file: "dreamweb"
+      title: "Dreamweb"
+
+    - file: "drakkhen"
+      title: "Drakkhen"
+
+    - file: "dreams-to-reality"
+      title: "Dreams To Reality"
+
+    - file: "driller"
+      title: "Driller"
+
+    - file: "driver"
+      title: "Driver"
+
+    - file: "duck-tales"
+      title: "Duck Tales"
+
+    - file: "duke-nukem-2"
+      title: "Duke Nukem 2"
+
+    - file: "duke-nukem-3d"
+      title: "Duke Nukem 3D"
+
+    - file: "duke-nukem"
+      title: "Duke Nukem"
+
+    - file: "dune-2"
+      title: "Dune 2"
+
+    - file: "dune"
+      title: "Dune"
+
+    - file: "dungeon-hack"
+      title: "Dungeon Hack"
+
+    - file: "dungeon-keeper-2"
+      title: "Dungeon Keeper 2"
+
+    - file: "dungeon-keeper"
+      title: "Dungeon Keeper"
+
+    - file: "dungeon-master-2"
+      title: "Dungeon Master 2"
+
+    - file: "dungeon-master"
+      title: "Dungeon Master"
+
+    - file: "dunjax"
+      title: "Dunjax"
+
+    - file: "dynablaster"
+      title: "Dynablaster"
+
+    - file: "dynamite-dux"
+      title: "Dynamite Dux"
+
+    - file: "earth-2140"
+      title: "Earth 2140"
+
+    - file: "earth-2150"
+      title: "Earth 2150"
+
+    - file: "earth-worm-jim-2"
+      title: "Earth Worm Jim 2"
+
+    - file: "earth-worm-jim"
+      title: "Earth Worm Jim"
+
+    - file: "eat-this"
+      title: "Eat This"
+
+    - file: "eco-quest"
+      title: "Eco Quest"
+
+    - file: "ecstatica"
+      title: "Ecstatica"
+
+    - file: "elder-scrolls-arena"
+      title: "Elder Scrolls - Arena"
+
+    - file: "elements"
+      title: "Elements"
+
+    - file: "electro-body"
+      title: "Electro Body"
+
+    - file: "elf"
+      title: "Elf"
+
+    - file: "elite"
+      title: "Elite"
+
+    - file: "emergency"
+      title: "Emergency"
+
+    - file: "emition"
+      title: "Emition"
+
+    - file: "enemy-infestation"
+      title: "Enemy Infestation"
+
+    - file: "entrepreneur"
+      title: "Entrepreneur"
+
+    - file: "epic-pinball"
+      title: "Epic Pinball"
+
+    - file: "eradicator"
+      title: "Eradicator"
+
+    - file: "eraser-turnabout"
+      title: "Eraser - Turnabout"
+
+    - file: "eraser"
+      title: "Eraser"
+
+    - file: "escape-or-die-trying"
+      title: "Escape - Or Die Trying"
+
+    - file: "eswat"
+      title: "Eswat"
+
+    - file: "eternam"
+      title: "Eternam"
+
+    - file: "excalibur-2555-ad"
+      title: "Excalibur 2555 AD"
+
+    - file: "excessive-speed"
+      title: "Excessive Speed"
+
+    - file: "exolon"
+      title: "Exolon"
+
+    - file: "expendable"
+      title: "Expendable"
+
+    - file: "extreme-assault"
+      title: "Extreme Assault"
+
+    - file: "extreme-g2"
+      title: "Extreme G2"
+
+    - file: "eye-of-horus"
+      title: "Eye Of Horus"
+
+    - file: "eye-of-the-beholder-3"
+      title: "Eye Of The Beholder 3"
+
+    - file: "f-14-fleet-defender"
+      title: "F - 14 Fleet Defender"
+
+    - file: "f-15-ii"
+      title: "F - 15 II"
+
+    - file: "f-16-multirole-fighter"
+      title: "F - 16 Multirole Fighter"
+
+    - file: "f-19"
+      title: "F - 19"
+
+    - file: "f-22-raptor"
+      title: "F - 22 Raptor"
+
+    - file: "fa-premier-football-manager-2k"
+      title: "F.A. Premier Football Manager 2K"
+
+    - file: "f22-lighting-2"
+      title: "F22 Lighting 2"
+
+    - file: "f22-lighting-3"
+      title: "F22 Lighting 3"
+
+    - file: "falcon-30"
+      title: "Falcon 3.0"
+
+    - file: "falcon-40"
+      title: "Falcon 4.0"
+
+    - file: "falcon-atac"
+      title: "Falcon ATAC"
+
+    - file: "falcon"
+      title: "Falcon"
+
+    - file: "fallen-haven"
+      title: "Fallen Haven"
+
+    - file: "fantasy-world-dizzy"
+      title: "Fantasy World Dizzy"
+
+    - file: "fatal-racing"
+      title: "Fatal Racing"
+
+    - file: "felix"
+      title: "Felix"
+
+    - file: "fifa-road-to-world-cup-98"
+      title: "FIFA - Road To World Cup '98"
+
+    - file: "fifa-2000"
+      title: "FIFA 2000"
+
+    - file: "fifa-97"
+      title: "FIFA '97"
+
+    - file: "fifa-98"
+      title: "FIFA '98"
+
+    - file: "fifa-99"
+      title: "FIFA '99"
+
+    - file: "fighter-bomber"
+      title: "Fighter Bomber"
+
+    - file: "final-conflict"
+      title: "Final Conflict"
+
+    - file: "final-fantasy-7"
+      title: "Final Fantasy 7"
+
+    - file: "finish-him"
+      title: "Finish Him!"
+
+    - file: "fire-fight"
+      title: "Fire Fight"
+
+    - file: "firestorm-thunderhawk-2"
+      title: "Firestorm - Thunderhawk 2"
+
+    - file: "first-samurai"
+      title: "First Samurai"
+
+    - file: "flash-back"
+      title: "Flash Back"
+
+    - file: "flesh-feast"
+      title: "Flesh Feast"
+
+    - file: "flight-of-the-amazon-queen"
+      title: "Flight Of The Amazon Queen"
+
+    - file: "flight-unlimited-2"
+      title: "Flight Unlimited 2"
+
+    - file: "flippin-heck"
+      title: "Flippin Heck"
+
+    - file: "fly-harder"
+      title: "Fly Harder"
+
+    - file: "flying-corps"
+      title: "Flying Corps"
+
+    - file: "flying-tigers"
+      title: "Flying Tigers"
+
+    - file: "formula-1-grand-prix"
+      title: "Formula 1 Grand Prix"
+
+    - file: "formula-1"
+      title: "Formula 1"
+
+    - file: "forsaken"
+      title: "Forsaken"
+
+    - file: "fortress-of-dr-radiaki"
+      title: "Fortress Of Dr. Radiaki"
+
+    - file: "framed"
+      title: "Framed"
+
+    - file: "franko"
+      title: "Franko"
+
+    - file: "frederick-goldman"
+      title: "Frederick Goldman"
+
+    - file: "freecell"
+      title: "Freecell"
+
+    - file: "friday-the-13th"
+      title: "Friday The 13th"
+
+    - file: "frogger-3d"
+      title: "Frogger 3D"
+
+    - file: "frontier"
+      title: "Frontier"
+
+    - file: "full-throttle"
+      title: "Full Throttle"
+
+    - file: "fury-3"
+      title: "Fury 3"
+
+    - file: "fury-of-the-furries"
+      title: "Fury Of The Furries"
+
+    - file: "future-cop-l-a-p-d"
+      title: "Future Cop L. A. P. D."
+
+    - file: "future-dimension"
+      title: "Future Dimension"
+
+    - file: "fx-fighter-turbo"
+      title: "FX Fighter Turbo"
+
+    - file: "fx-fighter"
+      title: "FX Fighter"
+
+    - file: "g-police"
+      title: "G - Police"
+
+    - file: "gateway-to-the-savage-frontier"
+      title: "Gateway To The Savage Frontier"
+
+    - file: "gateway"
+      title: "Gateway"
+
+    - file: "gear-works"
+      title: "Gear Works"
+
+    - file: "geekwad"
+      title: "Geekwad"
+
+    - file: "gender-wars"
+      title: "Gender Wars"
+
+    - file: "gene-wars"
+      title: "Gene Wars"
+
+    - file: "get-medieval"
+      title: "Get Medieval"
+
+    - file: "gex-enter-the-gecko"
+      title: "Gex - Enter The Gecko"
+
+    - file: "giganoid"
+      title: "Giganoid"
+
+    - file: "goblins"
+      title: "Goblins"
+
+    - file: "god-of-thunder"
+      title: "God Of Thunder"
+
+    - file: "gods"
+      title: "Gods"
+
+    - file: "golden-axe-2"
+      title: "Golden Axe 2"
+
+    - file: "golden-axe"
+      title: "Golden Axe"
+
+    - file: "gomora-syndrome"
+      title: "Gomora Syndrome"
+
+    - file: "gp-500"
+      title: "GP 500"
+
+    - file: "grand-prix-circuit"
+      title: "Grand Prix Circuit"
+
+    - file: "grand-slam-turkey-hunt"
+      title: "Grand Slam Turkey Hunt"
+
+    - file: "grand-theft-auto-london-1969"
+      title: "Grand Theft Auto - London 1969"
+
+    - file: "grand-theft-auto-2"
+      title: "Grand Theft Auto 2"
+
+    - file: "grand-theft-auto"
+      title: "Grand Theft Auto"
+
+    - file: "grand-touring"
+      title: "Grand Touring"
+
+    - file: "great-naval-battles-2"
+      title: "Great Naval Battles 2"
+
+    - file: "greed"
+      title: "Greed"
+
+    - file: "gremlins-3"
+      title: "Gremlins 3"
+
+    - file: "grid-runner"
+      title: "Grid Runner"
+
+    - file: "gruntz"
+      title: "Gruntz"
+
+    - file: "gubble"
+      title: "Gubble"
+
+    - file: "guld-corn"
+      title: "Guld Corn"
+
+    - file: "gun-metal"
+      title: "Gun Metal"
+
+    - file: "gunship-2000"
+      title: "Gunship 2000"
+
+    - file: "guts-'n-garters"
+      title: "Guts 'N Garters"
+
+    - file: "guy-spy"
+      title: "Guy Spy"
+
+    - file: "h-e-d-z"
+      title: "H. E. D. Z."
+
+    - file: "hagar"
+      title: "Hagar"
+
+    - file: "half-life-opposing-force"
+      title: "Half - Life - Opposing Force"
+
+    - file: "half-life"
+      title: "Half - Life"
+
+    - file: "halloween-harry"
+      title: "Halloween Harry"
+
+    - file: "hand-of-fate"
+      title: "Hand Of Fate"
+
+    - file: "hard-line"
+      title: "Hard Line"
+
+    - file: "hardwar"
+      title: "Hardwar"
+
+    - file: "hare-raising-havoc"
+      title: "Hare Raising Havoc"
+
+    - file: "harley-davidson-raa"
+      title: "Harley Davidson - RAA"
+
+    - file: "harpoon-2"
+      title: "Harpoon 2"
+
+    - file: "harpoon"
+      title: "Harpoon"
+
+    - file: "harvester"
+      title: "Harvester"
+
+    - file: "hattrick"
+      title: "Hattrick"
+
+    - file: "heartlight"
+      title: "Heartlight"
+
+    - file: "heavy-gear-2"
+      title: "Heavy Gear 2"
+
+    - file: "heavy-gear"
+      title: "Heavy Gear"
+
+    - file: "heimdall-2"
+      title: "Heimdall 2"
+
+    - file: "heimdall"
+      title: "Heimdall"
+
+    - file: "helicopter-mission"
+      title: "Helicopter Mission"
+
+    - file: "hell"
+      title: "Hell"
+
+    - file: "hellfire-zone"
+      title: "Hellfire Zone"
+
+    - file: "hellbender"
+      title: "Hellbender"
+
+    - file: "hellfire"
+      title: "Hellfire"
+
+    - file: "helter-skelter"
+      title: "Helter Skelter"
+
+    - file: "hercules-the-action-game"
+      title: "Hercules - The Action Game"
+
+    - file: "heretic-2"
+      title: "Heretic 2"
+
+    - file: "heretic"
+      title: "Heretic"
+
+    - file: "heroes-from-waterdeep"
+      title: "Heroes From Waterdeep"
+
+    - file: "heroes-of-might-magic-2"
+      title: "Heroes Of Might & Magic 2"
+
+    - file: "heroes-of-might-magic-3"
+      title: "Heroes Of Might & Magic 3"
+
+    - file: "heros-quest"
+      title: "Heros Quest"
+
+    - file: "hexen-2"
+      title: "Hexen 2"
+
+    - file: "hexen"
+      title: "Hexen"
+
+    - file: "hexplore"
+      title: "Hexplore"
+
+    - file: "hi-octane"
+      title: "Hi Octane"
+
+    - file: "hidden-dangerous"
+      title: "Hidden & Dangerous"
+
+    - file: "highway-fighter"
+      title: "Highway Fighter"
+
+    - file: "highway-hunter"
+      title: "Highway Hunter"
+
+    - file: "history-line-1914-1918"
+      title: "History Line 1914 - 1918"
+
+    - file: "hocus-pocus"
+      title: "Hocus Pocus"
+
+    - file: "holiday-lemmings-1993"
+      title: "Holiday Lemmings 1993"
+
+    - file: "home-alone"
+      title: "Home Alone"
+
+    - file: "homeworld"
+      title: "Homeworld"
+
+    - file: "hostages"
+      title: "Hostages"
+
+    - file: "house-of-the-dead"
+      title: "House Of The Dead"
+
+    - file: "humans-3-evolution"
+      title: "Humans 3 - Evolution"
+
+    - file: "hunter-hunted"
+      title: "Hunter Hunted"
+
+    - file: "hype-the-time-quest"
+      title: "Hype - The Time Quest"
+
+    - file: "hyperblade"
+      title: "Hyperblade"
+
+    - file: "hypercycles"
+      title: "Hypercycles"
+
+    - file: "i-war"
+      title: "I - War"
+
+    - file: "i-have-no-mind-but-i-must-think"
+      title: "I Have No Mind But I Must Think"
+
+    - file: "ignition"
+      title: "Ignition"
+
+    - file: "immortal"
+      title: "Immortal"
+
+    - file: "imperialism"
+      title: "Imperialism"
+
+    - file: "imperium-galactica"
+      title: "Imperium Galactica"
+
+    - file: "in-extremis"
+      title: "In Extremis"
+
+    - file: "inca"
+      title: "Inca"
+
+    - file: "incoming"
+      title: "Incoming"
+
+    - file: "incredible-hulk"
+      title: "Incredible Hulk"
+
+    - file: "incredible-toons"
+      title: "Incredible Toons"
+
+    - file: "independance-day"
+      title: "Independance Day"
+
+    - file: "indiana-jones-4-arcade"
+      title: "Indiana Jones 4 Arcade"
+
+    - file: "indiana-jones-and-the-infernal-machine"
+      title: "Indiana Jones And The Infernal Machine"
+
+    - file: "indiana-jones-and-the-last-crusade"
+      title: "Indiana Jones And The Last Crusade"
+
+    - file: "indycar-racing"
+      title: "Indycar Racing"
+
+    - file: "inferno"
+      title: "Inferno"
+
+    - file: "interstate-76-nitro-pack"
+      title: "Interstate '76 - Nitro Pack"
+
+    - file: "interstate-76"
+      title: "Interstate '76"
+
+    - file: "interstate-82"
+      title: "Interstate '82"
+
+    - file: "ishar-2"
+      title: "Ishar 2"
+
+    - file: "ishar"
+      title: "Ishar"
+
+    - file: "iznogoud"
+      title: "Iznogoud"
+
+    - file: "jack-alex-go-to-hollywood"
+      title: "Jack & Alex Go To Hollywood"
+
+    - file: "jagged-alliance-2"
+      title: "Jagged Alliance 2"
+
+    - file: "jagged-alliance"
+      title: "Jagged Alliance"
+
+    - file: "jammit"
+      title: "Jammit"
+
+    - file: "janitor-joe"
+      title: "Janitor Joe"
+
+    - file: "jazz-jackrabbit"
+      title: "Jazz Jackrabbit"
+
+    - file: "jazz-jackrabbit-2"
+      title: "Jazz Jackrabbit 2"
+
+    - file: "jedi-knight-mysteries-of-the-sith"
+      title: "Jedi Knight - Mysteries Of The Sith"
+
+    - file: "jedi-knight"
+      title: "Jedi Knight"
+
+    - file: "jeff-gordon-xs-racing"
+      title: "Jeff Gordon XS Racing"
+
+    - file: "jet-fighter-3"
+      title: "Jet Fighter 3"
+
+    - file: "jet-strike"
+      title: "Jet Strike"
+
+    - file: "jezzball"
+      title: "JezzBall"
+
+    - file: "jill-of-the-jungle"
+      title: "Jill Of The Jungle"
+
+    - file: "joint-strike-fighter"
+      title: "Joint Strike Fighter"
+
+    - file: "jungle-strike"
+      title: "Jungle Strike"
+
+    - file: "jurassic-park"
+      title: "Jurassic Park"
+
+    - file: "jurassic-war"
+      title: "Jurassic War"
+
+    - file: "kamasutra"
+      title: "Kamasutra"
+
+    - file: "katharsis"
+      title: "Katharsis"
+
+    - file: "ken's-labirynth"
+      title: "Ken's Labirynth"
+
+    - file: "kentucky-fried-chicken"
+      title: "Kentucky Fried Chicken"
+
+    - file: "killing-time"
+      title: "Killing Time"
+
+    - file: "kingpin"
+      title: "Kingpin"
+
+    - file: "kings-quest-5"
+      title: "King's Quest 5"
+
+    - file: "kings-quest-8"
+      title: "King's Quest 8"
+
+    - file: "kings-quest"
+      title: "King's Quest"
+
+    - file: "klingon-honor-guard"
+      title: "Klingon Honor Guard"
+
+    - file: "knights-merchants"
+      title: "Knights & Merchants"
+
+    - file: "knights-of-the-sky"
+      title: "Knights Of The Sky"
+
+    - file: "kroz"
+      title: "Kroz"
+
+    - file: "lamers"
+      title: "Lamers"
+
+    - file: "larry-1"
+      title: "Larry 1"
+
+    - file: "larry-3"
+      title: "Larry 3"
+
+    - file: "larry-5"
+      title: "Larry 5"
+
+    - file: "last-duel"
+      title: "Last Duel"
+
+    - file: "lba-2"
+      title: "LBA 2"
+
+    - file: "lego-racers"
+      title: "Lego Racers"
+
+    - file: "lethal-weapon"
+      title: "Lethal Weapon"
+
+    - file: "lew-leon"
+      title: "Lew Leon"
+
+    - file: "liberation-day"
+      title: "Liberation Day"
+
+    - file: "life-and-death"
+      title: "Life And Death"
+
+    - file: "lion-king"
+      title: "Lion King"
+
+    - file: "litil-divil"
+      title: "Litil Divil"
+
+    - file: "little-big-adventure-2"
+      title: "Little Big Adventure 2"
+
+    - file: "lode-runner-2"
+      title: "Lode Runner 2"
+
+    - file: "lode-runner"
+      title: "Lode Runner"
+
+    - file: "longbow-2"
+      title: "Longbow 2"
+
+    - file: "lords-of-magic"
+      title: "Lords Of Magic"
+
+    - file: "lost-in-l-a"
+      title: "Lost In L. A."
+
+    - file: "lotus-2"
+      title: "Lotus 2"
+
+    - file: "lucky-star"
+      title: "Lucky Star"
+
+    - file: "m-a-x-2"
+      title: "M. A. X. 2"
+
+    - file: "m-a-x"
+      title: "M. A. X."
+
+    - file: "mad-dog-2"
+      title: "Mad Dog 2"
+
+    - file: "mad-dog"
+      title: "Mad Dog"
+
+    - file: "mad-tv"
+      title: "Mad TV"
+
+    - file: "madden-99"
+      title: "Madden '99"
+
+    - file: "mage-slayer"
+      title: "Mage Slayer"
+
+    - file: "magic-carpet-2"
+      title: "Magic Carpet 2"
+
+    - file: "magic-carpet-plus"
+      title: "Magic Carpet Plus"
+
+    - file: "magic-carpet"
+      title: "Magic Carpet"
+
+    - file: "magic-pocket"
+      title: "Magic Pocket"
+
+    - file: "mass-destruction"
+      title: "Mass Destruction"
+
+    - file: "master-of-orion-2"
+      title: "Master Of Orion 2"
+
+    - file: "master-of-orion"
+      title: "Master Of Orion"
+
+    - file: "math-rescue"
+      title: "Math Rescue"
+
+    - file: "mayday"
+      title: "Mayday"
+
+    - file: "mdk"
+      title: "MDK"
+
+    - file: "mean-arenas"
+      title: "Mean Arenas"
+
+    - file: "mean-streets"
+      title: "Mean Streets"
+
+    - file: "meat-puppet"
+      title: "Meat Puppet"
+
+    - file: "mech-commander"
+      title: "Mech Commander"
+
+    - file: "mechwarrior-2-gbl"
+      title: "Mechwarrior 2 - GBL"
+
+    - file: "mechwarrior-2-mercenaries"
+      title: "Mechwarrior 2 - Mercenaries"
+
+    - file: "mechwarrior-2-titanium-trilogy"
+      title: "Mechwarrior 2 - Titanium Trilogy"
+
+    - file: "mechwarrior-2"
+      title: "Mechwarrior 2"
+
+    - file: "mega-marines"
+      title: "Mega Marines"
+
+    - file: "megalomania"
+      title: "Megalomania"
+
+    - file: "mega-zoottar"
+      title: "Mega Zoottar"
+
+    - file: "megaman-x4"
+      title: "Megaman X4"
+
+    - file: "megamaze"
+      title: "Megamaze"
+
+    - file: "megarace-2"
+      title: "Megarace 2"
+
+    - file: "megarace"
+      title: "Megarace"
+
+    - file: "men-in-black"
+      title: "Men In Black"
+
+    - file: "metal-marines"
+      title: "Metal Marines"
+
+    - file: "metal-mutant"
+      title: "Metal Mutant"
+
+    - file: "mia"
+      title: "Mia"
+
+    - file: "micro-machines"
+      title: "Micro Machines"
+
+    - file: "midtown-madness"
+      title: "Midtown Madness"
+
+    - file: "midwinter-2"
+      title: "Midwinter 2"
+
+    - file: "mig-29-fulcrum"
+      title: "Mig 29 - Fulcrum"
+
+    - file: "might-and-magic-3"
+      title: "Might And Magic 3"
+
+    - file: "monster-truck-madness"
+      title: "Monster Truck Madness"
+
+    - file: "moonstone"
+      title: "Moonstone"
+
+    - file: "mortal-kombat-2"
+      title: "Mortal Kombat 2"
+
+    - file: "mortal-kombat-3"
+      title: "Mortal Kombat 3"
+
+    - file: "mortal-kombat-4"
+      title: "Mortal Kombat 4"
+
+    - file: "mortal-kombat-trilogy"
+      title: "Mortal Kombat Trilogy"
+
+    - file: "mortal-kombat"
+      title: "Mortal Kombat"
+
+    - file: "mortyr"
+      title: "Mortyr"
+
+    - file: "moto-racer"
+      title: "Moto Racer"
+
+    - file: "motocross-madness"
+      title: "Motocross Madness"
+
+    - file: "motorhead"
+      title: "Motorhead"
+
+    - file: "mutant-zone"
+      title: "Mutant Zone"
+
+    - file: "muzzle-velocity"
+      title: "Muzzle Velocity"
+
+    - file: "mystic-towers"
+      title: "Mystic Towers"
+
+    - file: "myth-the-fallen-lords"
+      title: "Myth - The Fallen Lords"
+
+    - file: "myth-2-soulblighter"
+      title: "Myth 2 - Soulblighter"
+
+    - file: "nam"
+      title: "NAM"
+
+    - file: "nascar-2"
+      title: "Nascar 2"
+
+    - file: "navjet"
+      title: "Navjet"
+
+    - file: "nba-'98"
+      title: "NBA '98"
+
+    - file: "nba-live-2000"
+      title: "NBA Live 2000"
+
+    - file: "necrodrome"
+      title: "Necrodrome"
+
+    - file: "need-4-speed-1"
+      title: "Need 4 Speed 1"
+
+    - file: "need-4-speed-2-se"
+      title: "Need 4 Speed 2 SE"
+
+    - file: "need-4-speed-2"
+      title: "Need 4 Speed 2"
+
+    - file: "need-4-speed-3"
+      title: "Need 4 Speed 3"
+
+    - file: "need-4-speed-4-high-stakes"
+      title: "Need 4 Speed 4 - High Stakes"
+
+    - file: "nerf-arenablast"
+      title: "NERF - Arenablast"
+
+    - file: "netstorm-islands-at-war"
+      title: "Netstorm - Islands At War"
+
+    - file: "nfl-quarterback-club"
+      title: "NFL Quarterback Club"
+
+    - file: "nhl-2000"
+      title: "NHL 2000"
+
+    - file: "nhl-98"
+      title: "NHL '98"
+
+    - file: "nhl-99"
+      title: "NHL '99"
+
+    - file: "nicky-boom"
+      title: "Nicky Boom"
+
+    - file: "nightmare-creatures"
+      title: "Nightmare Creatures"
+
+    - file: "nova-9"
+      title: "Nova 9"
+
+    - file: "nocturne"
+      title: "Nocturne"
+
+    - file: "novastorm"
+      title: "Novastorm"
+
+    - file: "nuclear-strike"
+      title: "Nuclear Strike"
+
+    - file: "o-d-t"
+      title: "O. D. T."
+
+    - file: "oddworld-abes-exoddus"
+      title: "Oddworld - Abe's Exoddus"
+
+    - file: "oddworld-abes-oddysee"
+      title: "Oddworld - Abe's Oddysee"
+
+    - file: "of-light-and-darkness"
+      title: "Of Light And Darkness"
+
+    - file: "offensive"
+      title: "Offensive"
+
+    - file: "oh-no-more-lemmings"
+      title: "Oh, No! More Lemmings"
+
+    - file: "olin"
+      title: "Olin"
+
+    - file: "one-step-beyond"
+      title: "One Step Beyond"
+
+    - file: "operation-thunderbolt"
+      title: "Operation Thunderbolt"
+
+    - file: "operation-wolf"
+      title: "Operation Wolf"
+
+    - file: "outcast"
+      title: "Outcast"
+
+    - file: "outer-ridge"
+      title: "Outer Ridge"
+
+    - file: "outlaws"
+      title: "Outlaws"
+
+    - file: "outpost"
+      title: "Outpost"
+
+    - file: "outrun"
+      title: "Outrun"
+
+    - file: "outwars"
+      title: "Outwars"
+
+    - file: "overboard"
+      title: "Overboard"
+
+    - file: "overlord"
+      title: "Overlord"
+
+    - file: "overkill"
+      title: "Overkill"
+
+    - file: "oxyd-magnum"
+      title: "Oxyd Magnum"
+
+    - file: "pacific-general"
+      title: "Pacific General"
+
+    - file: "pacific-strike"
+      title: "Pacific Strike"
+
+    - file: "pandemonium-2"
+      title: "Pandemonium 2"
+
+    - file: "panza-kick-boxing"
+      title: "Panza Kick Boxing"
+
+    - file: "pandemonium"
+      title: "Pandemonium"
+
+    - file: "panzer-general"
+      title: "Panzer General"
+
+    - file: "perfect-weapon"
+      title: "Perfect Weapon"
+
+    - file: "phantasmagoria-2"
+      title: "Phantasmagoria 2"
+
+    - file: "phantasmagoria"
+      title: "Phantasmagoria"
+
+    - file: "pharaohs-tomb"
+      title: "Pharaoh's Tomb"
+
+    - file: "pharaon"
+      title: "Pharaon"
+
+    - file: "phobos"
+      title: "Phobos"
+
+    - file: "pinball-fantasies"
+      title: "Pinball Fantasies"
+
+    - file: "pipe-dream"
+      title: "Pipe Dream"
+
+    - file: "pipeline"
+      title: "Pipeline"
+
+    - file: "pipemania"
+      title: "Pipemania"
+
+    - file: "pirates-gold"
+      title: "Pirates! Gold"
+
+    - file: "pirates"
+      title: "Pirates!"
+
+    - file: "pitfall"
+      title: "Pitfall"
+
+    - file: "pizza-tycoon"
+      title: "Pizza Tycoon"
+
+    - file: "planescape-tournament"
+      title: "Planescape - Tournament"
+
+    - file: "pod"
+      title: "POD"
+
+    - file: "polaris-rebellion"
+      title: "Polaris Rebellion"
+
+    - file: "police-quest-swat"
+      title: "Police Quest - SWAT"
+
+    - file: "police-quest-2"
+      title: "Police Quest 2"
+
+    - file: "police-quest-3"
+      title: "Police Quest 3"
+
+    - file: "populous-3-the-beginning"
+      title: "Populous 3 - The Beginning"
+
+    - file: "populous-2"
+      title: "Populous 2"
+
+    - file: "populous"
+      title: "Populous"
+
+    - file: "postal"
+      title: "Postal"
+
+    - file: "powerboat-racing"
+      title: "Powerboat Racing"
+
+    - file: "powerslave"
+      title: "Powerslave"
+
+    - file: "powerslide"
+      title: "Powerslide"
+
+    - file: "prehistoric-2"
+      title: "Prehistoric 2"
+
+    - file: "premier-manager-3"
+      title: "Premier Manager 3"
+
+    - file: "premier-manager-99"
+      title: "Premier Manager '99"
+
+    - file: "prince-of-persia-2"
+      title: "Prince Of Persia 2"
+
+    - file: "prince-of-persia-3d"
+      title: "Prince Of Persia 3D"
+
+    - file: "prince-of-persia"
+      title: "Prince Of Persia"
+
+    - file: "privateer-2-the-darkening"
+      title: "Privateer 2 - The Darkening"
+
+    - file: "privateer"
+      title: "Privateer"
+
+    - file: "pro-rally-2001"
+      title: "Pro Rally 2001"
+
+    - file: "project-paradise"
+      title: "Project Paradise"
+
+    - file: "protostar"
+      title: "Protostar"
+
+    - file: "psycho-pinball"
+      title: "Psycho Pinball"
+
+    - file: "push-over"
+      title: "Push Over"
+
+    - file: "puzzles-penthouse"
+      title: "Puzzles - Penthouse"
+
+    - file: "puzznic"
+      title: "Puzznic"
+
+    - file: "pyl"
+      title: "Pył"
+
+    - file: "quake-2"
+      title: "Quake 2"
+
+    - file: "quake-3-arena"
+      title: "Quake 3 Arena"
+
+    - file: "quake-mission-pack-1-2"
+      title: "Quake Mission Pack 1 & 2"
+
+    - file: "quake"
+      title: "Quake"
+
+    - file: "quarantine"
+      title: "Quarantine"
+
+    - file: "quest-for-glory"
+      title: "Quest For Glory"
+
+    - file: "quest-for-gold"
+      title: "Quest For Gold"
+
+    - file: "quiver"
+      title: "Quiver"
+
+    - file: "radix-beyond-the-void"
+      title: "Radix - Beyond The Void"
+
+    - file: "radix-into-the-void"
+      title: "Radix - Into The Void"
+
+    - file: "rage-of-mages-2"
+      title: "Rage Of Mages 2"
+
+    - file: "rage-of-mages"
+      title: "Rage Of Mages"
+
+    - file: "railroad-tycoon-2"
+      title: "Railroad Tycoon 2"
+
+    - file: "railroad-tycoon-deluxe"
+      title: "Railroad Tycoon Deluxe"
+
+    - file: "railroad-tycoon"
+      title: "Railroad Tycoon"
+
+    - file: "rainbow-six-rogue-spear"
+      title: "Rainbow Six - Rogue Spear"
+
+    - file: "rainbow-six"
+      title: "Rainbow Six"
+
+    - file: "rally-championship-2000"
+      title: "Rally Championship 2000"
+
+    - file: "rapanui"
+      title: "Rapanui"
+
+    - file: "ravage-dcx"
+      title: "Ravage DCX"
+
+    - file: "rayman"
+      title: "Rayman"
+
+    - file: "re-volt"
+      title: "Re - Volt"
+
+    - file: "rebel-assault-2"
+      title: "Rebel Assault 2"
+
+    - file: "rebel-assault"
+      title: "Rebel Assault"
+
+    - file: "rebel-moon-rising"
+      title: "Rebel Moon Rising"
+
+    - file: "recoil"
+      title: "Recoil"
+
+    - file: "red-baron-2"
+      title: "Red Baron 2"
+
+    - file: "red-baron"
+      title: "Red Baron"
+
+    - file: "red-guard"
+      title: "Red Guard"
+
+    - file: "redline-racer"
+      title: "Redline Racer"
+
+    - file: "redline"
+      title: "Redline"
+
+    - file: "redneck-rampage"
+      title: "Redneck Rampage"
+
+    - file: "redneck-rampage-2"
+      title: "Redneck Rampage 2"
+
+    - file: "relentless"
+      title: "Relentless"
+
+    - file: "reloaded"
+      title: "Reloaded"
+
+    - file: "rescue-rangers-heroes"
+      title: "Rescue Rangers Heroes"
+
+    - file: "resident-evil-2"
+      title: "Resident Evil 2"
+
+    - file: "return-fire-2"
+      title: "Return Fire 2"
+
+    - file: "return-of-medusa"
+      title: "Return Of Medusa"
+
+    - file: "revenant"
+      title: "Revenant"
+
+    - file: "return-to-krondor"
+      title: "Return To Krondor"
+
+    - file: "rick-dangerous"
+      title: "Rick Dangerous"
+
+    - file: "rise-of-the-triad"
+      title: "Rise Of The Triad"
+
+    - file: "rise-of-the-robots"
+      title: "Rise Of The Robots"
+
+    - file: "risky-woods"
+      title: "Risky Woods"
+
+    - file: "rival-realms"
+      title: "Rival Realms"
+
+    - file: "road-blasters"
+      title: "Road Blasters"
+
+    - file: "road-rush"
+      title: "Road Rush"
+
+    - file: "robbo"
+      title: "Robbo"
+
+    - file: "robocop"
+      title: "Robocop"
+
+    - file: "rocketter"
+      title: "Rocketter"
+
+    - file: "roger-rabbit"
+      title: "Roger Rabbit"
+
+    - file: "rollcage"
+      title: "Rollcage"
+
+    - file: "rollin"
+      title: "Rollin"
+
+    - file: "rome-a-d-92"
+      title: "Rome A. D. 92"
+
+    - file: "s-c-a-r-s"
+      title: "S. C. A. R. S."
+
+    - file: "sand-storm"
+      title: "Sand Storm"
+
+    - file: "sand-warriors"
+      title: "Sand Warriors"
+
+    - file: "sango-fighter"
+      title: "Sango Fighter"
+
+    - file: "saper-windows"
+      title: "Saper (Windows)"
+
+    - file: "satan"
+      title: "Satan"
+
+    - file: "screamer-2"
+      title: "Screamer 2"
+
+    - file: "screamer-rally"
+      title: "Screamer Rally"
+
+    - file: "screamer"
+      title: "Screamer"
+
+    - file: "seal-team"
+      title: "Seal Team"
+
+    - file: "secret-agent-2"
+      title: "Secret Agent 2"
+
+    - file: "secret-agent-3"
+      title: "Secret Agent 3"
+
+    - file: "secret-agent"
+      title: "Secret Agent"
+
+    - file: "secret-of-monkey-island"
+      title: "Secret Of Monkey Island"
+
+    - file: "settlers-2"
+      title: "Settlers 2"
+
+    - file: "settlers-3"
+      title: "Settlers 3"
+
+    - file: "settlers"
+      title: "Settlers"
+
+    - file: "seven-kingdoms-2"
+      title: "Seven Kingdoms 2"
+
+    - file: "shadow-company"
+      title: "Shadow Company"
+
+    - file: "shadow-dancer"
+      title: "Shadow Dancer"
+
+    - file: "shadow-master"
+      title: "Shadow Master"
+
+    - file: "shadow-president"
+      title: "Shadow President"
+
+    - file: "shadow-warrior"
+      title: "Shadow Warrior"
+
+    - file: "shadows-of-the-empire"
+      title: "Shadows Of The Empire"
+
+    - file: "shogo-mobile-armor-division"
+      title: "Shogo - Mobile Armor Division"
+
+    - file: "shooting-gallery"
+      title: "Shooting Gallery"
+
+    - file: "sid-meiers-gettysburg"
+      title: "Sid Meier's Gettysburg!"
+
+    - file: "silpheed"
+      title: "Silpheed"
+
+    - file: "sim-city-2000"
+      title: "Sim City 2000"
+
+    - file: "sim-ant"
+      title: "Sim Ant"
+
+    - file: "sim-city-3000"
+      title: "Sim City 3000"
+
+    - file: "sim-city"
+      title: "Sim City"
+
+    - file: "sim-earth"
+      title: "Sim Earth"
+
+    - file: "sim-copter"
+      title: "Sim Copter"
+
+    - file: "sim-farm"
+      title: "Sim Farm"
+
+    - file: "sim-isle"
+      title: "Sim Isle"
+
+    - file: "sim-tower"
+      title: "Sim Tower"
+
+    - file: "sin"
+      title: "SIN"
+
+    - file: "sinistar-unleashed"
+      title: "Sinistar Unleashed"
+
+    - file: "sink-or-swim"
+      title: "Sink Or Swim"
+
+    - file: "skaphander"
+      title: "Skaphander"
+
+    - file: "skeleton-crew"
+      title: "Skeleton Crew"
+
+    - file: "skout"
+      title: "Skout"
+
+    - file: "slam-city"
+      title: "Slam City"
+
+    - file: "slipstream-5000"
+      title: "Slipstream 5000"
+
+    - file: "south-park"
+      title: "South Park"
+
+    - file: "sleep-walker"
+      title: "Sleep Walker"
+
+    - file: "small-soldiers"
+      title: "Small Soldiers"
+
+    - file: "sokoban"
+      title: "Sokoban"
+
+    - file: "space-ace-2"
+      title: "Space Ace 2"
+
+    - file: "space-ace"
+      title: "Space Ace"
+
+    - file: "space-empires-3"
+      title: "Space Empires 3"
+
+    - file: "space-hulk-2-vengeance-of-the-blood-angels"
+      title: "Space Hulk 2 - Vengeance Of The Blood Angels"
+
+    - file: "space-hulk"
+      title: "Space Hulk"
+
+    - file: "spear-of-destiny"
+      title: "Spear Of Destiny"
+
+    - file: "spearhead"
+      title: "Spearhead"
+
+    - file: "spec-ops"
+      title: "Spec Ops"
+
+    - file: "speed-busters"
+      title: "Speed Busters"
+
+    - file: "speed-racer"
+      title: "Speed Racer"
+
+    - file: "spellcross"
+      title: "Spellcross"
+
+    - file: "sports-car-gt"
+      title: "Sports Car GT"
+
+    - file: "star-control-3"
+      title: "Star Control 3"
+
+    - file: "star-trek-birth-of-the-federation"
+      title: "Star Trek - Birth Of The Federation"
+
+    - file: "star-trek-borg"
+      title: "Star Trek - BORG"
+
+    - file: "star-trek-hidden-evil"
+      title: "Star Trek - Hidden Evil"
+
+    - file: "star-trek-tng-a-final-unity"
+      title: "Star Trek TNG - A Final Unity"
+
+    - file: "star-wars-rogue-squadron-3d"
+      title: "Star Wars - Rogue Squadron 3D"
+
+    - file: "star-wars-the-phantom-menace"
+      title: "Star Wars - The Phantom Menace"
+
+    - file: "star-wars-episode-1-racer"
+      title: "Star Wars Episode 1 - Racer"
+
+    - file: "starcraft"
+      title: "Starcraft"
+
+    - file: "stellar-7"
+      title: "Stellar 7"
+
+    - file: "stone-age"
+      title: "Stone Age"
+
+    - file: "stonekeep"
+      title: "Stonekeep"
+
+    - file: "stratosphere"
+      title: "Stratosphere"
+
+    - file: "street-fighter-2"
+      title: "Street Fighter 2"
+
+    - file: "street-fighter-zero"
+      title: "Street Fighter Zero"
+
+    - file: "street-racer"
+      title: "Street Racer"
+
+    - file: "street-rod-2"
+      title: "Street Rod 2"
+
+    - file: "street-rod"
+      title: "Street Rod"
+
+    - file: "streets-of-sim-city"
+      title: "Streets Of Sim City"
+
+    - file: "strife"
+      title: "Strife"
+
+    - file: "stryx"
+      title: "Stryx"
+
+    - file: "stunts"
+      title: "Stunts"
+
+    - file: "sub-culture"
+      title: "Sub Culture"
+
+    - file: "subwar-2050"
+      title: "Subwar 2050"
+
+    - file: "supaplex"
+      title: "Supaplex"
+
+    - file: "super-frog"
+      title: "Super Frog"
+
+    - file: "super-karts"
+      title: "Super Karts"
+
+    - file: "super-street-fighter-2-turbo"
+      title: "Super Street Fighter 2 Turbo"
+
+    - file: "super-off-road"
+      title: "Super Off - Road"
+
+    - file: "supercars"
+      title: "Supercars"
+
+    - file: "swat-3-close-quarters-battle"
+      title: "SWAT 3 - Close Quarters Battle"
+
+    - file: "switch"
+      title: "Switch"
+
+    - file: "syndicate-wars"
+      title: "Syndicate Wars"
+
+    - file: "syndicate"
+      title: "Syndicate"
+
+    - file: "system-shock-2"
+      title: "System Shock 2"
+
+    - file: "system-shock"
+      title: "System Shock"
+
+    - file: "take-no-prisoners"
+      title: "Take No Prisoners"
+
+    - file: "tarzan"
+      title: "Tarzan"
+
+    - file: "targhan"
+      title: "Targhan"
+
+    - file: "teenage-mutant-hero-turtles"
+      title: "Teenage Mutant Hero Turtles"
+
+    - file: "teenagent"
+      title: "Teenagent"
+
+    - file: "tekwar"
+      title: "Tekwar"
+
+    - file: "teresa-x"
+      title: "Teresa X"
+
+    - file: "terminal-velocity"
+      title: "Terminal Velocity"
+
+    - file: "terminator-future-shock"
+      title: "Terminator - Future Shock"
+
+    - file: "terminator-skynet"
+      title: "Terminator - Skynet"
+
+    - file: "terminator-rampage"
+      title: "Terminator Rampage"
+
+    - file: "test-drive-2"
+      title: "Test Drive 2"
+
+    - file: "test-drive-3"
+      title: "Test Drive 3"
+
+    - file: "test-drive-4"
+      title: "Test Drive 4"
+
+    - file: "test-drive-5"
+      title: "Test Drive 5"
+
+    - file: "test-drive-off-road"
+      title: "Test Drive Off Road"
+
+    - file: "test-drive"
+      title: "Test Drive"
+
+    - file: "tfx"
+      title: "TFX"
+
+    - file: "thaurus"
+      title: "Thaurus"
+
+    - file: "the-5th-element"
+      title: "The 5th Element"
+
+    - file: "the-crow-city-of-angels"
+      title: "The Crow - City Of Angels"
+
+    - file: "the-hive"
+      title: "The Hive"
+
+    - file: "the-incredible-machine"
+      title: "The Incredible Machine"
+
+    - file: "the-lost-vikings-2"
+      title: "The Lost Vikings 2"
+
+    - file: "the-lost-vikings"
+      title: "The Lost Vikings"
+
+    - file: "the-reap"
+      title: "The Reap"
+
+    - file: "theme-hospital"
+      title: "Theme Hospital"
+
+    - file: "theme-park"
+      title: "Theme Park"
+
+    - file: "think-cross"
+      title: "Think Cross"
+
+    - file: "this-means-peace"
+      title: "This Means Peace!"
+
+    - file: "thrust-twist-turn"
+      title: "Thrust, Twist & Turn"
+
+    - file: "thundercats"
+      title: "Thundercats"
+
+    - file: "tie-fighter"
+      title: "TIE Fighter"
+
+    - file: "time-commando"
+      title: "Time Commando"
+
+    - file: "tiny-skweeks"
+      title: "Tiny Skweeks"
+
+    - file: "tiny-trails"
+      title: "Tiny Trails"
+
+    - file: "titus-the-fox"
+      title: "Titus The Fox"
+
+    - file: "tnn-outdoors-pro-hunter"
+      title: "TNN Outdoors Pro Hunter"
+
+    - file: "toca-2"
+      title: "TOCA 2"
+
+    - file: "toca"
+      title: "TOCA"
+
+    - file: "tom-jerry"
+      title: "Tom & Jerry"
+
+    - file: "tomb-raider-2"
+      title: "Tomb Raider 2"
+
+    - file: "tomb-raider-3"
+      title: "Tomb Raider 3"
+
+    - file: "tomb-raider"
+      title: "Tomb Raider"
+
+    - file: "tonic-troubles"
+      title: "Tonic Troubles"
+
+    - file: "tony-friend"
+      title: "Tony & Friend"
+
+    - file: "total-annihilation-kingdoms"
+      title: "Total Annihilation - Kingdoms"
+
+    - file: "total-annihilation"
+      title: "Total Annihilation"
+
+    - file: "total-mayhem"
+      title: "Total Mayhem"
+
+    - file: "tradewar-2002"
+      title: "Tradewar 2002"
+
+    - file: "transport-tycoon"
+      title: "Transport Tycoon"
+
+    - file: "trespasser"
+      title: "Trespasser"
+
+    - file: "tribal-rage"
+      title: "Tribal Rage"
+
+    - file: "trickstyle"
+      title: "Trickstyle"
+
+    - file: "tricky-quicky"
+      title: "Tricky Quicky"
+
+    - file: "troddlers"
+      title: "Troddlers"
+
+    - file: "trolls"
+      title: "Trolls"
+
+    - file: "tube"
+      title: "Tube"
+
+    - file: "turok-2-seeds-of-evil"
+      title: "Turok 2 - Seeds Of Evil"
+
+    - file: "turok"
+      title: "Turok"
+
+    - file: "twisted-metal-2"
+      title: "Twisted Metal 2"
+
+    - file: "tyrian-2000"
+      title: "Tyrian 2000"
+
+    - file: "tyrian"
+      title: "Tyrian"
+
+    - file: "tzar"
+      title: "Tzar"
+
+    - file: "ubik"
+      title: "Ubik"
+
+    - file: "ufo-enemy-unknown"
+      title: "UFO - Enemy Unknown"
+
+    - file: "ufo-2-terror-from-the-deep"
+      title: "UFO 2 - Terror From The Deep"
+
+    - file: "ugh"
+      title: "Ugh!"
+
+    - file: "ugly-boy"
+      title: "Ugly Boy"
+
+    - file: "ultima-6"
+      title: "Ultima 6"
+
+    - file: "ultima-7"
+      title: "Ultima 7"
+
+    - file: "ultima-8"
+      title: "Ultima 8"
+
+    - file: "ultima-underworld-2"
+      title: "Ultima Underworld 2"
+
+    - file: "ultima-underworld"
+      title: "Ultima Underworld"
+
+    - file: "ultimate-soccer-manager-98"
+      title: "Ultimate Soccer Manager '98"
+
+    - file: "under-a-killing-moon"
+      title: "Under A Killing Moon"
+
+    - file: "unreal-tournament"
+      title: "Unreal Tournament"
+
+    - file: "unreal"
+      title: "Unreal"
+
+    - file: "uprising-2"
+      title: "Uprising 2"
+
+    - file: "uprising"
+      title: "Uprising"
+
+    - file: "urban-chaos"
+      title: "Urban Chaos"
+
+    - file: "utopia"
+      title: "Utopia"
+
+    - file: "v-2000"
+      title: "V 2000"
+
+    - file: "vangers"
+      title: "Vangers"
+
+    - file: "vaxine"
+      title: "Vaxine"
+
+    - file: "vida-x"
+      title: "Vida X"
+
+    - file: "vigilance"
+      title: "Vigilance"
+
+    - file: "viking-child"
+      title: "Viking Child"
+
+    - file: "viking-kids"
+      title: "Viking Kids"
+
+    - file: "virtual-pool-2"
+      title: "Virtual Pool 2"
+
+    - file: "virus"
+      title: "Virus"
+
+    - file: "vivi"
+      title: "Vivi"
+
+    - file: "voyager"
+      title: "Voyager"
+
+    - file: "wacky-wheels"
+      title: "Wacky Wheels"
+
+    - file: "war-games"
+      title: "War Games"
+
+    - file: "war-of-the-worlds"
+      title: "War Of The Worlds"
+
+    - file: "war-wind-2"
+      title: "War Wind 2"
+
+    - file: "war-wind"
+      title: "War Wind"
+
+    - file: "warbreeds"
+      title: "Warbreeds"
+
+    - file: "warcraft-2"
+      title: "Warcraft 2"
+
+    - file: "warcraft"
+      title: "Warcraft"
+
+    - file: "wargasm"
+      title: "Wargasm"
+
+    - file: "warlords"
+      title: "Warlords"
+
+    - file: "warzone-2100"
+      title: "Warzone 2100"
+
+    - file: "wcw-nitro"
+      title: "WCW Nitro"
+
+    - file: "ween-the-prophecy"
+      title: "Ween - The Prophecy"
+
+    - file: "weird-dreams"
+      title: "Weird Dreams"
+
+    - file: "wheel-of-time"
+      title: "Wheel Of Time"
+
+    - file: "whiplash"
+      title: "Whiplash"
+
+    - file: "whizz"
+      title: "Whizz"
+
+    - file: "wind-of-walker"
+      title: "Wind Of Walker"
+
+    - file: "wing-commander-special-operations"
+      title: "Wing Commander - Special Operations"
+
+    - file: "wing-commander-secret-ops"
+      title: "Wing Commander - Secret Ops"
+
+    - file: "wing-commander-2"
+      title: "Wing Commander 2"
+
+    - file: "wing-commander-3"
+      title: "Wing Commander 3"
+
+    - file: "wing-commander-4"
+      title: "Wing Commander 4"
+
+    - file: "wing-commander-armada"
+      title: "Wing Commander Armada"
+
+    - file: "wing-commander-prophecy"
+      title: "Wing Commander Prophecy"
+
+    - file: "wing-commander"
+      title: "Wing Commander"
+
+    - file: "wings-of-fury"
+      title: "Wings Of Fury"
+
+    - file: "wipeout-xl"
+      title: "Wipeout XL"
+
+    - file: "wipeout"
+      title: "Wipeout"
+
+    - file: "witchaven-2"
+      title: "Witchaven 2"
+
+    - file: "witchaven"
+      title: "Witchaven"
+
+    - file: "wizardry-7"
+      title: "Wizardry 7"
+
+    - file: "wizball"
+      title: "Wizball"
+
+    - file: "world-cup-98"
+      title: "World Cup '98"
+
+    - file: "wolfenstein-3d"
+      title: "Wolfenstein 3D"
+
+    - file: "world-rescue"
+      title: "World Rescue"
+
+    - file: "world-war-ii-g-l"
+      title: "World War II - G. L."
+
+    - file: "worms-reinforcements"
+      title: "Worms - Reinforcements"
+
+    - file: "worms-plus"
+      title: "Worms +"
+
+    - file: "worms-2"
+      title: "Worms 2"
+
+    - file: "worms-armageddon"
+      title: "Worms Armageddon"
+
+    - file: "wrath-of-earth"
+      title: "Wrath Of Earth"
+
+    - file: "worms"
+      title: "Worms"
+
+    - file: "wreckin-crew"
+      title: "Wreckin Crew"
+
+    - file: "wrigglers"
+      title: "Wrigglers"
+
+    - file: "x-car"
+      title: "X - Car"
+
+    - file: "x-com-interceptor"
+      title: "X - Com Interceptor"
+
+    - file: "x-files"
+      title: "X - Files"
+
+    - file: "x-men"
+      title: "X - Men"
+
+    - file: "x-wing-alliance"
+      title: "X - Wing Alliance"
+
+    - file: "xargon"
+      title: "Xargon"
+
+    - file: "xatax"
+      title: "Xatax"
+
+    - file: "xenobots"
+      title: "Xenobots"
+
+    - file: "xenon-2"
+      title: "Xenon 2"
+
+    - file: "xs"
+      title: "XS"
+
+    - file: "yo-joe"
+      title: "Yo! Joe!"
+
+    - file: "zany-golf"
+      title: "Zany Golf"
+
+    - file: "zero-degree-fighter-combat"
+      title: "Zero Degree Fighter Combat"
+
+    - file: "zgred-2"
+      title: "Zgred 2"
+
+    - file: "zombie-master-and-dragon-lady"
+      title: "Zombie Master And Dragon Lady"
+
+    - file: "zombie-wars"
+      title: "Zombie Wars"
+
+    - file: "zone-66"
+      title: "Zone 66"
+
+    - file: "zool-2"
+      title: "Zool 2"
+
+    - file: "zool"
+      title: "Zool"
+
+    - file: "zpc"
+      title: "ZPC"
+
+    - file: "epic"
+      title: "Epic"
+
